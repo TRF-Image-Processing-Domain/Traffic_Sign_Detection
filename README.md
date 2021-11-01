@@ -46,6 +46,6 @@ We have approached to implement this in multiple ways.
    different result than expected. The later red signs can be correctly identified by the model)
    
 #Results
- ![alt text](https://drive.google.com/file/d/1QWApY03cK9XT5ss6qYjGhYB2dekHPHJ2/view?usp=sharing)
+ ![alt text](https://github.com/jayant1211/Traffic_Sign_Detection/blob/main/Method_1_DetectGeneralisedSign_Recognition/result/res.gif)
  
 
