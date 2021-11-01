@@ -45,7 +45,7 @@ We have approached to implement this in multiple ways.
    Morever, in the result video, the sign speed limit 30km/h is different(blue) from the one we have used to train our recognition model using GTSRB(red), which produces 
    different result than expected. The later red signs can be correctly identified by the model)
    
-##Results:
+## Results:
  ![alt text](https://github.com/jayant1211/Traffic_Sign_Detection/blob/main/Method_1_DetectGeneralisedSign_Recognition/result/res.gif)
  
 
